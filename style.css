@@ -1,0 +1,28 @@
+ body {
+     background-image: url('https://cdn.pixabay.com/photo/2018/02/21/05/17/cat-3169476_960_720.jpg');
+     background-size: cover;
+     background-repeat: no-repeat;
+ }
+
+ img {
+     width: 30vh;
+ }
+
+
+
+ .container {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+
+     margin-top: 20vh;
+ }
+
+
+
+
+
+ .container button {
+     background-color: aqua;
+     width: 10em;
+ }
